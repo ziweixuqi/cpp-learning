@@ -1,0 +1,15 @@
+# C++ 编译产物
+*.o
+*.out
+*.exe
+*.a
+*.so
+build/
+
+# IDE 配置文件
+.vscode/
+.idea/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
